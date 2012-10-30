@@ -1,3 +1,7 @@
+/**
+ * TASK: Do the internal representation of a polynomial function. You must implement the following
+ * operations: addition, subtraction and multiplication Use arrays for storing coefficients.
+ */
 public class Polynom1 {
     private final int[] coef;
 

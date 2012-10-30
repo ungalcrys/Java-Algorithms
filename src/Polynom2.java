@@ -2,6 +2,11 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * TASK: Do the internal representation of a polynomial function. You must implement the following
+ * operations: addition, subtraction and multiplication Use a Java data structure (ex. collections)
+ * for storing coefficients.
+ */
 public class Polynom2 {
     private final List<Integer> coef;
 
